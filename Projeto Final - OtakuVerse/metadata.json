@@ -1,0 +1,8 @@
+{
+  "name": "OtakuVerse Collector Hub",
+  "description": "Plataforma de alta curadoria em colecionáveis japoneses, scale figures 1/7, wall scrolls cyberpunk, streetwear otaku e checkout com Pix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
